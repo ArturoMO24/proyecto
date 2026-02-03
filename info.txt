@@ -1,0 +1,5 @@
+Nombre: Arturo Morales Osuna 
+Fecha: 03/02/2026
+Objetivo de la actividad: practica de gitHub
+Que es el Pull Request?: es una solicitud para integrar cambios de 
+			 código de una rama de desarrollo a otra 
